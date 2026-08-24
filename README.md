@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://tjarosar.io/assets/icon/apple-icon-144x144.png">
+    <img alt="TJ Rosario-Rosa" src="https://tjarosar.io/assets/icon/apple-icon-144x144.png">
+  </picture>
+</p>
+<p align="center"><img src="title.svg" alt="TJ Rosario-Rosa"></p>
 
-<!--
-**trosario-rosa/trosario-rosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> About Me </h3>
+<p align="center">
+I'm a full-stack software engineer that enjoys solving problems and building solutions. <br/> <br/>
+All of my projects are self-hosted through Gitea on my homelab. <br/> <br/>
+Feel free to contact me for collaborations, project inquiries, or any software development opportunities.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
